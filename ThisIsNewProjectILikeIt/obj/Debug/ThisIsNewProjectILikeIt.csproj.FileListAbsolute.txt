@@ -1,0 +1,10 @@
+C:\Users\LWH\source\repos\ThisIsNewProjectILikeIt\ThisIsNewProjectILikeIt\bin\Debug\ThisIsNewProjectILikeIt.exe.config
+C:\Users\LWH\source\repos\ThisIsNewProjectILikeIt\ThisIsNewProjectILikeIt\bin\Debug\ThisIsNewProjectILikeIt.exe
+C:\Users\LWH\source\repos\ThisIsNewProjectILikeIt\ThisIsNewProjectILikeIt\bin\Debug\ThisIsNewProjectILikeIt.pdb
+C:\Users\LWH\source\repos\ThisIsNewProjectILikeIt\ThisIsNewProjectILikeIt\obj\Debug\ThisIsNewProjectILikeIt.csprojResolveAssemblyReference.cache
+C:\Users\LWH\source\repos\ThisIsNewProjectILikeIt\ThisIsNewProjectILikeIt\obj\Debug\ThisIsNewProjectILikeIt.Form1.resources
+C:\Users\LWH\source\repos\ThisIsNewProjectILikeIt\ThisIsNewProjectILikeIt\obj\Debug\ThisIsNewProjectILikeIt.Properties.Resources.resources
+C:\Users\LWH\source\repos\ThisIsNewProjectILikeIt\ThisIsNewProjectILikeIt\obj\Debug\ThisIsNewProjectILikeIt.csproj.GenerateResource.cache
+C:\Users\LWH\source\repos\ThisIsNewProjectILikeIt\ThisIsNewProjectILikeIt\obj\Debug\ThisIsNewProjectILikeIt.csproj.CoreCompileInputs.cache
+C:\Users\LWH\source\repos\ThisIsNewProjectILikeIt\ThisIsNewProjectILikeIt\obj\Debug\ThisIsNewProjectILikeIt.exe
+C:\Users\LWH\source\repos\ThisIsNewProjectILikeIt\ThisIsNewProjectILikeIt\obj\Debug\ThisIsNewProjectILikeIt.pdb
